@@ -1,5 +1,5 @@
 {
-  "name": "@eabdullazyanov/react-native-sms-user-consent",
+  "name": "@mortentangen/react-native-sms-user-consent",
   "title": "React Native Sms User Consent",
   "version": "1.0.10",
   "description": "React Native wrapper for Android's SMS User Consent API, ready to use in React Native apps with minimum effort",
